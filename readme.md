@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-composer require latrell/scws-laravel dev-master
+composer require latrell/scws dev-master
 ```
 
 更新你的依赖包 ```composer update``` 或者全新安装 ```composer install```。

@@ -1,5 +1,5 @@
 {
-    "name": "latrell/scws-laravel",
+    "name": "latrell/scws",
     "description": "简易中文分词系统在Laravel的封装包。",
     "keywords": [
         "L5",

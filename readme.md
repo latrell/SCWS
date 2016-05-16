@@ -33,3 +33,5 @@ composer require latrell/scws dev-master
         'Scws' => Latrell\Scws\Facades\Scws::class,
     ]
 ```
+
+运行 `php artisan vendor:publish` 命令，发布配置文件到你的项目中。

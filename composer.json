@@ -8,7 +8,7 @@
         {
             "name": "Latrell Chan",
             "email": "i@latrell.me"
-        },
+        }
     ],
     "require": {
         "php": ">=5.5.9",

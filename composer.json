@@ -1,12 +1,7 @@
 {
-    "name": "latrell/scws",
+    "name": "vanry/scws",
     "description": "简易中文分词系统在Laravel的封装包。",
-    "keywords": [
-        "L5",
-        "Laravel 5",
-        "Laravel",
-        "SCWS"
-    ],
+    "keywords": ["Laravel", "SCWS"],
     "homepage": "https://github.com/Latrell/SCWS",
     "license": "MIT",
     "authors": [
@@ -16,9 +11,9 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=7.0",
         "ext-scws": ">=0.2.1",
-        "illuminate/support": "5.1.*|5.2.*"
+        "illuminate/support": "~5.1|^6.0|^7.0"
     },
     "autoload": {
         "psr-0": {
